@@ -24,6 +24,6 @@ app.use("/api/messages", messageRoute);
 app.get("/", (req, res) => res.send("server running now"));
 
 app.listen(8800, () => {
-  console.log("Server is running! 8000");
+  console.log("Server is running! 8800");
 });
 
