@@ -20,6 +20,7 @@ This Real Estate Application allows users to browse, search, and filter properti
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **Styling**: Tailwind CSS
+- **Deployed **: Aws 
 
 ## Getting Started
 
